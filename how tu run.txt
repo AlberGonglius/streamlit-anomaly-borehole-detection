@@ -1,0 +1,3 @@
+pipenv shell
+pipenv install requirements.txt
+pipenv run streamlit run main.py
